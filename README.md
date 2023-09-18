@@ -44,12 +44,7 @@
    - **Instrucciones:** Descarga el archivo `InstallPackage.bat` y ejecútalo para instalar las actualizaciones.
 
 9. **Ver actualizaciones instaladas:**
-   - **Descripción:** Utiliza el comando `Get-HotFix` en PowerShell o `wmic qfe list` en CMD para ver la lista de actualizaciones instaladas en tu sistema.
-   - **Código (PowerShell):**
-     ```powershell
-     # Obtiene la lista de actualizaciones instaladas
-     Get-HotFix
-     ```
+   - **Descripción:** Utiliza el comando en CMD para ver la lista de actualizaciones instaladas en tu sistema.
    - **Código (CMD):**
      ```batch
      :: Obtiene la lista de actualizaciones instaladas
