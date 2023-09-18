@@ -27,12 +27,7 @@
    - **Enlace:** [Catálogo de Windows para Windows 11](https://www.catalog.update.microsoft.com/Home.aspx)
 
 7. **Desinstalar actualizaciones instaladas:**
-   - **Descripción:** Si enfrentas problemas con actualizaciones, utiliza el comando `wusa` en PowerShell o CMD para desinstalarlas y restaurar la estabilidad de tu sistema.
-   - **Código (PowerShell):**
-     ```powershell
-     # Desinstala una actualización específica
-     wusa /uninstall /kb:KBNumber
-     ```
+   - **Descripción:** Si enfrentas problemas con actualizaciones, utiliza el comando `wusa` en CMD para desinstalarlas y restaurar la estabilidad de tu sistema.
    - **Código (CMD):**
      ```batch
      :: Desinstala una actualización específica
