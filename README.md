@@ -33,12 +33,8 @@
      :: Desinstala una actualización específica
      wusa /uninstall /kb:KBNumber
      ```
-
-8. **InstallPackage:**
-   - **Descripción:** Utiliza un archivo batch para instalar paquetes de actualizaciones descargados del catálogo de Windows de manera más sencilla.
-   - **Instrucciones:** Descarga el archivo `InstallPackage.bat` y ejecútalo para instalar las actualizaciones.
-
-9. **Ver actualizaciones instaladas:**
+     
+8. **Ver actualizaciones instaladas:**
    - **Descripción:** Utiliza el comando en CMD para ver la lista de actualizaciones instaladas en tu sistema.
    - **Código (CMD):**
      ```batch
