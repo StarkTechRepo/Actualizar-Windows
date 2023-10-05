@@ -20,11 +20,11 @@
 
 5. **Catálogo de Windows (Windows 10):**
    - **Descripción:** Explora el Catálogo de Windows para Windows 10 y busca actualizaciones específicas en línea.
-   - **Enlace:** [Catálogo de Windows para Windows 10](https://www.catalog.update.microsoft.com/Home.aspx)
+   - **Enlace:** [Catálogo de Windows para Windows 10](https://www.catalog.update.microsoft.com/Search.aspx?q=windows%2010)
 
 6. **Catálogo de Windows (Windows 11):**
    - **Descripción:** Accede al Catálogo de Windows diseñado para Windows 11 y encuentra actualizaciones en línea.
-   - **Enlace:** [Catálogo de Windows para Windows 11](https://www.catalog.update.microsoft.com/Home.aspx)
+   - **Enlace:** [Catálogo de Windows para Windows 11](https://www.catalog.update.microsoft.com/Search.aspx?q=windows%2011)
 
 7. **Desinstalar actualizaciones instaladas:**
    - **Descripción:** Si enfrentas problemas con actualizaciones, utiliza el comando `wusa` en CMD para desinstalarlas y restaurar la estabilidad de tu sistema.
