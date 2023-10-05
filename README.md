@@ -42,6 +42,30 @@
      wmic qfe list
      ```
 
+9. **Acceso al Historial de Actualizaciones de Windows 10 desde la Página de Soporte de Microsoft:**
+   - **Descripción:** Mantén tu sistema Windows 10 actualizado con las últimas correcciones y mejoras de seguridad consultando el historial de actualizaciones de Windows 10 en la página de soporte de Microsoft.
+   - **Instrucciones para Windows 10:**
+     1. Abre tu navegador web y ve al siguiente enlace: [Historial de Actualizaciones de Windows 10 en Microsoft](https://support.microsoft.com/es-es/topic/historial-de-actualizaciones-de-windows-10-8127c2c6-6edf-4fdf-8b9f-0f7be1ef3562).
+     2. En la página de soporte de Microsoft para Windows 10, encontrarás una lista de actualizaciones en la parte izquierda de la web. El primer elemento de la lista corresponde a la actualización más reciente.
+     3. Haz clic en el enlace de la actualización más reciente para acceder a los detalles.
+     4. En la página de detalles de la actualización para Windows 10, busca y copia el número de identificación de la actualización (KB). Este número KB es único para cada actualización y se utiliza para buscarla en el catálogo de Windows.
+     5. Abre el Catálogo de Microsoft Update (https://www.catalog.update.microsoft.com/Home.aspx) en una nueva pestaña de tu navegador.
+     6. En la barra de búsqueda del catálogo, pega el número KB que copiaste previamente para Windows 10 y presiona Enter.
+     7. Deberías ver la actualización correspondiente en los resultados de búsqueda. Haz clic en ella para acceder a la página de detalles de la actualización en el catálogo de Windows.
+     8. En la página de detalles de la actualización en el catálogo de Windows, puedes descargarla directamente haciendo clic en el enlace de descarga proporcionado.
+
+10. **Acceso al Historial de Actualizaciones de Windows 11 desde la Página de Soporte de Microsoft:**
+   - **Descripción:** Mantén tu sistema Windows 11 actualizado con las últimas correcciones y mejoras de seguridad consultando el historial de actualizaciones de Windows 11 en la página de soporte de Microsoft.
+   - **Instrucciones para Windows 11:**
+     1. Abre tu navegador web y ve al siguiente enlace para Windows 11: [Historial de Actualizaciones de Windows 11 en Microsoft](https://support.microsoft.com/es-es/topic/windows-11-historial-de-actualizaciones-de-la-versi%C3%B3n-22h2-ec4229c3-9c5f-4e75-9d6d-9025ab70fcce).
+     2. En la página de soporte de Microsoft para Windows 11, encontrarás una lista de actualizaciones en la parte izquierda de la web. El primer elemento de la lista corresponde a la actualización más reciente.
+     3. Haz clic en el enlace de la actualización más reciente para acceder a los detalles.
+     4. En la página de detalles de la actualización para Windows 11, busca y copia el número de identificación de la actualización (KB).
+     5. Abre el Catálogo de Microsoft Update (https://www.catalog.update.microsoft.com/Home.aspx) en una nueva pestaña de tu navegador.
+     6. En la barra de búsqueda del catálogo, pega el número KB que copiaste previamente para Windows 11 y presiona Enter.
+     7. Deberías ver la actualización correspondiente en los resultados de búsqueda. Haz clic en ella para acceder a la página de detalles de la actualización en el catálogo de Windows.
+     8. En la página de detalles de la actualización en el catálogo de Windows, puedes descargarla directamente haciendo clic en el enlace de descarga proporcionado.
+
 ## Licencia
 Este proyecto está bajo la licencia [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Puedes compartir, adaptar y utilizar estos archivos siempre que des el crédito correspondiente al autor original.
 
