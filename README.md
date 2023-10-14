@@ -1,14 +1,14 @@
 ## Índice
-1. [Actualizar desde el Catálogo de Windows](#actualizar-desde-el-catálogo-de-windows)
-2. [Actualizar desde Windows Update](#actualizar-desde-windows-update)
-3. [Asistente de Instalación de Windows 10](#asistente-de-instalación-de-windows-10)
-4. [Asistente de Instalación de Windows 11](#asistente-de-instalación-de-windows-11)
-5. [Catálogo de Windows (Windows 10)](#catálogo-de-windows-windows-10)
-6. [Catálogo de Windows (Windows 11)](#catálogo-de-windows-windows-11)
-7. [Desinstalar actualizaciones instaladas](#desinstalar-actualizaciones-instaladas)
-8. [Ver actualizaciones instaladas](#ver-actualizaciones-instaladas)
-9. [Acceso al Historial de Actualizaciones de Windows 10 desde la Página de Soporte de Microsoft](#acceso-al-historial-de-actualizaciones-de-windows-10-desde-la-página-de-soporte-de-microsoft)
-10. [Acceso al Historial de Actualizaciones de Windows 11 desde la Página de Soporte de Microsoft](#acceso-al-historial-de-actualizaciones-de-windows-11-desde-la-página-de-soporte-de-microsoft)
+1. [Actualizar desde el Catálogo de Windows](1-actualizar-desde-el-catálogo-de-windows)
+2. [Actualizar desde Windows Update](#2-actualizar-desde-windows-update)
+3. [Asistente de Instalación de Windows 10](#3-asistente-de-instalación-de-windows-10)
+4. [Asistente de Instalación de Windows 11](#4-asistente-de-instalación-de-windows-11)
+5. [Catálogo de Windows (Windows 10)](#5-catálogo-de-windows-windows-10)
+6. [Catálogo de Windows (Windows 11)](#6-catálogo-de-windows-windows-11)
+7. [Desinstalar actualizaciones instaladas](#7-desinstalar-actualizaciones-instaladas)
+8. [Ver actualizaciones instaladas](8-ver-actualizaciones-instaladas)
+9. [Acceso al Historial de Actualizaciones de Windows 10 desde la Página de Soporte de Microsoft](#9-acceso-al-historial-de-actualizaciones-de-windows-10-desde-la-página-de-soporte-de-microsoft)
+10. [Acceso al Historial de Actualizaciones de Windows 11 desde la Página de Soporte de Microsoft](#10-acceso-al-historial-de-actualizaciones-de-windows-11-desde-la-página-de-soporte-de-microsoft)
 
 ## 1. **Actualizar desde el Catálogo de Windows:**
    - **Descripción:** Obtén actualizaciones específicas para tu sistema Windows desde el Catálogo de Windows, personalizando tu experiencia de actualización.
