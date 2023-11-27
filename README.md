@@ -10,9 +10,13 @@
 9. [Acceso al Historial de Actualizaciones de Windows 10 desde la Página de Soporte de Microsoft](#9-acceso-al-historial-de-actualizaciones-de-windows-10-desde-la-página-de-soporte-de-microsoft)
 10. [Acceso al Historial de Actualizaciones de Windows 11 desde la Página de Soporte de Microsoft](#10-acceso-al-historial-de-actualizaciones-de-windows-11-desde-la-página-de-soporte-de-microsoft)
 
+---
+
 ## 1. **Actualizar desde el Catálogo de Windows:**
    - **Descripción:** Obtén actualizaciones específicas para tu sistema Windows desde el Catálogo de Windows, personalizando tu experiencia de actualización.
    - **Enlace:** [Catálogo de Windows](https://www.catalog.update.microsoft.com/Home.aspx)
+
+---
 
 ## 2. **Actualizar desde Windows Update:**
    - **Descripción:** Mantén tu sistema operativo seguro y actualizado utilizando Windows Update, el servicio oficial de Microsoft.
@@ -21,38 +25,51 @@
      :: Ejecuta Windows Update
      control /name Microsoft.WindowsUpdate
      ```
+---
 
 ## 3. **Asistente de Instalación de Windows 10:**
    - **Descripción:** Simplifica la instalación y actualización de Windows 10 con la ayuda del Asistente de Instalación.
    - **Enlace:** [Descargar Asistente de Instalación de Windows 10](https://www.microsoft.com/en-us/software-download/windows10)
 
+---
+
 ## 4. **Asistente de Instalación de Windows 11:**
    - **Descripción:** Experimenta la última versión de Windows con facilidad mediante el Asistente de Instalación de Windows 11.
    - **Enlace:** [Descargar Asistente de Instalación de Windows 11](https://www.microsoft.com/en-us/software-download/windows11)
+
+---
 
 ## 5. **Catálogo de Windows (Windows 10):**
    - **Descripción:** Explora el Catálogo de Windows para Windows 10 y busca actualizaciones específicas en línea.
    - **Enlace:** [Catálogo de Windows para Windows 10](https://www.catalog.update.microsoft.com/Search.aspx?q=windows%2010)
 
+---
+
 ## 6. **Catálogo de Windows (Windows 11):**
    - **Descripción:** Accede al Catálogo de Windows diseñado para Windows 11 y encuentra actualizaciones en línea.
    - **Enlace:** [Catálogo de Windows para Windows 11](https://www.catalog.update.microsoft.com/Search.aspx?q=windows%2011)
 
+---
+
 ## 7. **Desinstalar actualizaciones instaladas:**
    - **Descripción:** Si enfrentas problemas con actualizaciones, utiliza el comando `wusa` en CMD para desinstalarlas y restaurar la estabilidad de tu sistema.
    - **Código (CMD):**
-     ```batch
+     ```
      :: Desinstala una actualización específica
      wusa /uninstall /kb:KBNumber
      ```
      
+---
+
 ## 8. **Ver actualizaciones instaladas:**
    - **Descripción:** Utiliza el comando en CMD para ver la lista de actualizaciones instaladas en tu sistema.
    - **Código (CMD):**
-     ```batch
+     ```
      :: Obtiene la lista de actualizaciones instaladas
      wmic qfe list
      ```
+     
+---
 
 ## 9. **Acceso al Historial de Actualizaciones de Windows 10 desde la Página de Soporte de Microsoft:**
    - **Descripción:** Mantén tu sistema Windows 10 actualizado con las últimas correcciones y mejoras de seguridad consultando el historial de actualizaciones de Windows 10 en la página de soporte de Microsoft.
@@ -66,6 +83,8 @@
      7. Deberías ver la actualización correspondiente en los resultados de búsqueda. Haz clic en ella para acceder a la página de detalles de la actualización en el catálogo de Windows.
      8. En la página de detalles de la actualización en el catálogo de Windows, puedes descargarla directamente haciendo clic en el enlace de descarga proporcionado.
 
+---
+
 ## 10. **Acceso al Historial de Actualizaciones de Windows 11 desde la Página de Soporte de Microsoft:**
    - **Descripción:** Mantén tu sistema Windows 11 actualizado con las últimas correcciones y mejoras de seguridad consultando el historial de actualizaciones de Windows 11 en la página de soporte de Microsoft.
    - **Instrucciones para Windows 11:**
@@ -77,6 +96,8 @@
      6. En la barra de búsqueda del catálogo, pega el número KB que copiaste previamente para Windows 11 y presiona Enter.
      7. Deberías ver la actualización correspondiente en los resultados de búsqueda. Haz clic en ella para acceder a la página de detalles de la actualización en el catálogo de Windows.
      8. En la página de detalles de la actualización en el catálogo de Windows, puedes descargarla directamente haciendo clic en el enlace de descarga proporcionado.
+
+---
 
 ## Licencia
 Este proyecto está bajo la licencia [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). Puedes compartir, adaptar y utilizar estos archivos siempre que des el crédito correspondiente al autor original.
